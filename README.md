@@ -1,6 +1,5 @@
 # 30 Day Vanilla JS Coding Challenge
-****
- 30 Days × 30 Videos:
+**30 Days × 30 Videos:**
 
 + 01 - JavaScript Drum Kit: **16.01.2023**
 + 02 - JS and CSS Clock: **17.01.2023**
