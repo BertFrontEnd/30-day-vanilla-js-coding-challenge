@@ -7,3 +7,4 @@
 + 04 - Array Cardio Day 1: **19.01.2023**
 + 05 - Flex Panel Gallery: **20.01.2023**
 + 06 - Type Ahead: **21.01.2023**
++ 07 - Array Cardio Day 2: **22.01.2023**
