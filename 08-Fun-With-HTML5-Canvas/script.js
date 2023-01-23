@@ -17,8 +17,8 @@ let hue = 0;
 let direction = true;
 
 function draw(e) {
-  if (!isDrawing) return; // остановить выполнение функции, если isDrawing = true, мышь не нажата
-  /* console.log(e); */
+  console.log(isDrawing);
+  if (!isDrawing) return; // остановить выполнение функции, если мышь не нажата
   ctx.strokeStyle = `hsl(${hue}, 100%, 50%)`;
   ctx.beginPath();
   // начало линии, начать с
@@ -43,8 +43,6 @@ function draw(e) {
   } else {
     ctx.lineWidth--;
   }
-
-  console.log(ctx.lineWidth);
 }
 
 canvas.addEventListener('mousemove', draw);
