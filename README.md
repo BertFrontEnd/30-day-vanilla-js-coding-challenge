@@ -10,3 +10,4 @@
 + [07 - Array Cardio Day 2: **22.01.2023**](https://github.com/BertFrontEnd/30-day-vanilla-js-coding-challenge/tree/master/07-Array-Cardio-Day-2)
 + [08 - Fun with HTML5 Canvas: **23.01.2023**](https://github.com/BertFrontEnd/30-day-vanilla-js-coding-challenge/tree/master/08-Fun-With-HTML5-Canvas)
 + [09 - Dev Tools Domination: **24.01.2023**](https://github.com/BertFrontEnd/30-day-vanilla-js-coding-challenge/tree/master/09-Dev-Tools-Domination)
++ [10 - Hold Shift and Check Checkboxes: **25.01.2023**](https://github.com/BertFrontEnd/30-day-vanilla-js-coding-challenge/tree/master/10-Hold-Shift-and-Check-Checkboxes)
