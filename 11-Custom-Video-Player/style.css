@@ -29,6 +29,7 @@ body {
   overflow: hidden;
 }
 
+/* Это правило применяется только при активном полноэкранном режиме. */
 .player:fullscreen {
   max-width: none;
   width: 100%;
@@ -95,7 +96,7 @@ body {
 
 .progress__filled {
   flex: 0;
-  flex-basis: 50%;
+  flex-basis: 0%;
   width: 50%;
   background: #ffc600;
 }
