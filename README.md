@@ -12,6 +12,6 @@
 + [09 - Dev Tools Domination: **24.01.2023**](https://github.com/BertFrontEnd/30-day-vanilla-js-coding-challenge/tree/master/09-Dev-Tools-Domination)
 + [10 - Hold Shift and Check Checkboxes: **25.01.2023**](https://github.com/BertFrontEnd/30-day-vanilla-js-coding-challenge/tree/master/10-Hold-Shift-and-Check-Checkboxes)
 + [11 - Custom Video Player: **26-27.01.2023**](https://github.com/BertFrontEnd/30-day-vanilla-js-coding-challenge/tree/master/11-Custom-Video-Player)
-+ [12 - Key-Sequence-Detection: **28.01.2023**](https://github.com/BertFrontEnd/30-day-vanilla-js-coding-challenge/tree/master/12-Key-Sequence-Detection)
++ [12 - Key Sequence Detection: **28.01.2023**](https://github.com/BertFrontEnd/30-day-vanilla-js-coding-challenge/tree/master/12-Key-Sequence-Detection)
 + [13 - Slide in on Scroll: **29.01.2023**](https://github.com/BertFrontEnd/30-day-vanilla-js-coding-challenge/tree/master/13-Slide-in-on-Scroll)
 + [14 - JavaScript References VS Copying: **30.01.2023**](https://github.com/BertFrontEnd/30-day-vanilla-js-coding-challenge/tree/master/14-JavaScript-References-VS-Copying)
