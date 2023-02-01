@@ -15,4 +15,4 @@
 + [12 - Key Sequence Detection: **28.01.2023**](https://github.com/BertFrontEnd/30-day-vanilla-js-coding-challenge/tree/master/12-Key-Sequence-Detection)
 + [13 - Slide in on Scroll: **29.01.2023**](https://github.com/BertFrontEnd/30-day-vanilla-js-coding-challenge/tree/master/13-Slide-in-on-Scroll)
 + [14 - JavaScript References VS Copying: **30.01.2023**](https://github.com/BertFrontEnd/30-day-vanilla-js-coding-challenge/tree/master/14-JavaScript-References-VS-Copying)
-+ [15 - LocalStorage: **31.01.2023**](https://github.com/BertFrontEnd/30-day-vanilla-js-coding-challenge/tree/master/15-LocalStorage)
++ [15 - LocalStorage: **31.01-01.02.2023**](https://github.com/BertFrontEnd/30-day-vanilla-js-coding-challenge/tree/master/15-LocalStorage)
