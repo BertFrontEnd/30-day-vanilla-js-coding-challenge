@@ -16,3 +16,4 @@
 + [13 - Slide in on Scroll: **29.01.2023**](https://github.com/BertFrontEnd/30-day-vanilla-js-coding-challenge/tree/master/13-Slide-in-on-Scroll)
 + [14 - JavaScript References VS Copying: **30.01.2023**](https://github.com/BertFrontEnd/30-day-vanilla-js-coding-challenge/tree/master/14-JavaScript-References-VS-Copying)
 + [15 - LocalStorage: **31.01-01.02.2023**](https://github.com/BertFrontEnd/30-day-vanilla-js-coding-challenge/tree/master/15-LocalStorage)
++ [16 - Mouse Move Shadow: **02.02.2023**](https://github.com/BertFrontEnd/30-day-vanilla-js-coding-challenge/tree/master/16-Mouse-Move-Shadow)
