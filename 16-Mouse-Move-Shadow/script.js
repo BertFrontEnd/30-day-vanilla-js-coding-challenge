@@ -7,8 +7,8 @@ function shadow(e) {
   let { offsetX: x, offsetY: y } = e;
 
   if (this != e.target) {
-    x = x + e.target.offsetLeft;
-    y = y + e.target.offsetTop;
+    x = e.target.offsetLeft + x;
+    y = e.target.offsetTop + y;
   }
 
   const xWalk = Math.round((x / width) * walk - walk / 2);
