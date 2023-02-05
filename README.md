@@ -19,3 +19,4 @@
 + [16 - Mouse Move Shadow: **02.02.2023**](https://github.com/BertFrontEnd/30-day-vanilla-js-coding-challenge/tree/master/16-Mouse-Move-Shadow)
 + [17 - Sort Without Articles: **03.02.2023**](https://github.com/BertFrontEnd/30-day-vanilla-js-coding-challenge/tree/master/17-Sort-Without-Articles)
 + [18 - Adding Up Times with Reduce: **04.02.2023**](https://github.com/BertFrontEnd/30-day-vanilla-js-coding-challenge/tree/master/18-Adding-Up-Times-with-Reduce)
++ [19 - Webcam Fun: **05.02.2023**](https://github.com/BertFrontEnd/30-day-vanilla-js-coding-challenge/tree/master/19-Webcam-Fun)
