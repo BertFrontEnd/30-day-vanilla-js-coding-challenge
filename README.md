@@ -23,3 +23,4 @@
 + [20 - Speech Detection: **06.02.2023**](https://github.com/BertFrontEnd/30-day-vanilla-js-coding-challenge/tree/master/20-Speech-Detection)
 + [21 - Geolocation: **07.02.2023**](https://github.com/BertFrontEnd/30-day-vanilla-js-coding-challenge/tree/master/21-Geolocation)
 + [22 - Follow Along Link Highlighter: **08.02.2023**](https://github.com/BertFrontEnd/30-day-vanilla-js-coding-challenge/tree/master/22-Follow-Along-Link-Highlighter)
++ [23 - Speech Synthesis: **09.02.2023**](https://github.com/BertFrontEnd/30-day-vanilla-js-coding-challenge/tree/master/23-Speech-Synthesis)
