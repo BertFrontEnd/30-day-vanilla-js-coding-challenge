@@ -25,4 +25,4 @@
 + [22 - Follow Along Link Highlighter: **08.02.2023**](https://github.com/BertFrontEnd/30-day-vanilla-js-coding-challenge/tree/master/22-Follow-Along-Link-Highlighter)
 + [23 - Speech Synthesis: **09.02.2023**](https://github.com/BertFrontEnd/30-day-vanilla-js-coding-challenge/tree/master/23-Speech-Synthesis)
 + [24 - Sticky-Nav: **10.02.2023**](https://github.com/BertFrontEnd/30-day-vanilla-js-coding-challenge/tree/master/24-Sticky-Nav)
-+ [25 - Event Capture, Propagation, Bubbling and Once: **10.02.2023**](https://github.com/BertFrontEnd/30-day-vanilla-js-coding-challenge/tree/master/25-Event-Capture-Propagation-Bubbling-and-Once)
++ [25 - Event Capture, Propagation, Bubbling and Once: **11.02.2023**](https://github.com/BertFrontEnd/30-day-vanilla-js-coding-challenge/tree/master/25-Event-Capture-Propagation-Bubbling-and-Once)
