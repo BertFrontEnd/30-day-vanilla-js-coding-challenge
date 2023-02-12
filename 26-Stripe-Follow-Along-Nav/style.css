@@ -1,0 +1,167 @@
+html {
+  font-family: 'Arial Rounded MT Bold', 'Helvetica Rounded', Arial, sans-serif;
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: linear-gradient(
+      45deg,
+      hsla(340, 100%, 55%, 1) 0%,
+      hsla(340, 100%, 55%, 0) 70%
+    ),
+    linear-gradient(
+      135deg,
+      hsla(225, 95%, 50%, 1) 10%,
+      hsla(225, 95%, 50%, 0) 80%
+    ),
+    linear-gradient(
+      225deg,
+      hsla(140, 90%, 50%, 1) 10%,
+      hsla(140, 90%, 50%, 0) 80%
+    ),
+    linear-gradient(
+      315deg,
+      hsla(35, 95%, 55%, 1) 100%,
+      hsla(35, 95%, 55%, 0) 70%
+    );
+}
+
+h2 {
+  margin-top: 0;
+  padding-top: 0.8em;
+}
+
+nav {
+  position: relative;
+  perspective: 600px;
+}
+
+.cool > li > a {
+  display: inline-block;
+  padding: 10px 20px;
+  margin: 20px;
+  font-size: 20px;
+  color: yellow;
+  text-decoration: none;
+  border-radius: 5px;
+  background: rgba(0, 0, 0, 0.2);
+}
+
+nav ul {
+  display: flex;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.cool > li {
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+
+.dropdown {
+  position: absolute;
+  top: -20px;
+  display: none;
+  padding: 20px;
+  overflow: hidden;
+  border-radius: 2px;
+  opacity: 0;
+  transition: all 0.5s;
+  transform: translateY(100px);
+  will-change: opacity;
+}
+
+.trigger-enter .dropdown {
+  display: block;
+}
+
+.trigger-enter-active .dropdown {
+  opacity: 1;
+}
+
+.dropdownBackground {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  width: 100px;
+  height: 100px;
+  border-radius: 4px;
+  background: #fff;
+  box-shadow: 0 50px 100px rgba(50, 50, 93, 0.1),
+    0 15px 35px rgba(50, 50, 93, 0.15), 0 5px 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s, opacity 0.1s, transform 0.2s;
+  transform-origin: 50% 0;
+  opacity: 0;
+}
+
+.dropdownBackground.open {
+  opacity: 1;
+}
+
+.arrow {
+  position: absolute;
+  display: block;
+  width: 20px;
+  height: 20px;
+  background: white;
+  transform: translateY(-50%) rotate(45deg);
+}
+
+.bio {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-width: 500px;
+  line-height: 1.7;
+}
+
+.bio img {
+  float: left;
+  margin-right: 20px;
+}
+
+.courses {
+  min-width: 300px;
+}
+
+.courses li {
+  display: block;
+  padding: 10px 0;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.dropdown a {
+  text-decoration: none;
+  color: #ffc600;
+}
+
+a.button {
+  display: block;
+  margin-bottom: 10px;
+  padding: 10px;
+  background: black;
+  color: white;
+}
+
+.button[href*='twitter'] {
+  background: #019fe9;
+}
+
+.button[href*='facebook'] {
+  background: #3b5998;
+}
+
+.button[href*='courses'] {
+  background: #ffc600;
+}
