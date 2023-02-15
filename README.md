@@ -29,3 +29,4 @@
 + [26 - Stripe Follow Along Nav **12.02.2023**](https://github.com/BertFrontEnd/30-day-vanilla-js-coding-challenge/tree/master/26-Stripe-Follow-Along-Nav)
 + [27 - Click And Drag **13.02.2023**](https://github.com/BertFrontEnd/30-day-vanilla-js-coding-challenge/tree/master/27-Click-And-Drag)
 + [28 - Video Speed Controller **14.02.2023**](https://github.com/BertFrontEnd/30-day-vanilla-js-coding-challenge/tree/master/28-Video-Speed-Controller)
++ [29 - Countdown Timer **15.02.2023**](https://github.com/BertFrontEnd/30-day-vanilla-js-coding-challenge/tree/master/29-Countdown-Timer)
